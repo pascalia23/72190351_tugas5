@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\72190344_Tugas5\\Blazor\\Blazor344\\Blazor344.csproj": {}
+    "C:\\Front\\GBU\\Blazor\\Blazor344\\Blazor344.csproj": {}
   },
   "projects": {
-    "C:\\72190344_Tugas5\\Blazor\\Blazor344\\Blazor344.csproj": {
+    "C:\\Front\\GBU\\Blazor\\Blazor344\\Blazor344.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\72190344_Tugas5\\Blazor\\Blazor344\\Blazor344.csproj",
+        "projectUniqueName": "C:\\Front\\GBU\\Blazor\\Blazor344\\Blazor344.csproj",
         "projectName": "Blazor344",
-        "projectPath": "C:\\72190344_Tugas5\\Blazor\\Blazor344\\Blazor344.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\72190344_Tugas5\\Blazor\\Blazor344\\obj\\",
+        "projectPath": "C:\\Front\\GBU\\Blazor\\Blazor344\\Blazor344.csproj",
+        "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Front\\GBU\\Blazor\\Blazor344\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -65,7 +65,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.10, 5.0.10]"
+              "version": "[5.0.11, 5.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

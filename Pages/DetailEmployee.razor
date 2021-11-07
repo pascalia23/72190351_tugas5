@@ -4,22 +4,14 @@
 }
 else{
 <h3><b> Detail Employee </b> </h3>
-  <div class="card">
-  <h5 class="card-header">@Employee.FirstName @Employee.LastName</h5>
-  <div class = "card-deck">
     <div class="card m-3" style="min-width: 18rem; max-width:30%">
   <img class="card-img-top img-thumbnail" src="@Employee.PhotoPath" />
-  <div class="card-body">
-    <p class="card-text">ID : @Employee.EmployeeId</p>
-    <p class="card-text">First Name : @Employee.FirstName</p>
-    <p class="card-text">Last Name : @Employee.LastName</p>
-    <p class="card-text">Date Of Birth: @Employee.DateOfBirth</p>
-    <p class="card-text">Gender: @Employee.Gender</p>
-    <p class="card-text">Department Id: @Employee.DepartmentId</p>
-    <p class="card-text">Department Name: @Employee.Department.DepartmentName</p>
-    <a href="/employeepage" class="btn btn-secondary m-1">Back</a>
+    <p>ID : @Employee.EmployeeId</p>
+    <p>First Name : @Employee.FirstName</p>
+    <p>Last Name : @Employee.LastName</p>
+    <p>Date Of Birth: @Employee.DateOfBirth</p>
+    <p>Gender: @Employee.Gender</p>
+    <p>Department Id: @Employee.DepartmentId</p>
+    <p>Department Name: @Employee.Department.DepartmentName</p>
   </div>
-  </div>
-  </div>
-</div>
 }

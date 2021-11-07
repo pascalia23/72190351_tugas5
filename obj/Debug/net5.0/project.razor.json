@@ -461,6 +461,39 @@
         }
       },
       {
+        "HashCode": -1645281333,
+        "Kind": "Components.Component",
+        "Name": "Blazor344.Shared.NavMenu",
+        "AssemblyName": "Blazor344",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor344.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1476229299,
+        "Kind": "Components.Component",
+        "Name": "Blazor344.Shared.NavMenu",
+        "AssemblyName": "Blazor344",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazor344.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazor344.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -876609937,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
